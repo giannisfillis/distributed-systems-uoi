@@ -1,0 +1,5 @@
+#define MAX_NAME_LEN		64
+#define MAX_MSG_LEN		1024
+#define MAX_PRINT_MSG_LEN	2048
+#define PORT 			5380
+#define SERVER_IP_ADDRESS	"10.7.4.108" //"127.0.0.1"
